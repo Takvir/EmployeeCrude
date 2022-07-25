@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "gffdf",
+      "lastname": "fdgfdsfsd",
+      "birthday": "2022-07-13",
+      "gender": "m",
+      "education": "Graduate",
+      "company": "gffd",
+      "jobExperience": 4234,
+      "salary": 234423,
+      "profile": "Profile2.JPG",
+      "id": 1
+    },
+    {
+      "firstname": "rre",
+      "lastname": "dffsf",
+      "birthday": "2022-07-14",
+      "gender": "m",
+      "education": "Post Graduate",
+      "company": "erwef",
+      "jobExperience": 324342,
+      "salary": 4543,
+      "profile": "Profile3.JPG",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
